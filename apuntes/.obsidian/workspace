@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "68c1cb6fcd9578f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a711a171314951b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Visual_Imperative.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "972cf1bec190e397",
+    "type": "split",
+    "children": [
+      {
+        "id": "48297cd58275527f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c253d9911fdb2f6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba8bedcb8290421b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "52fcb8de855d09bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd65a87b584f25e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3372da35dfd99f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Visual_Imperative.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5a711a171314951b",
+  "lastOpenFiles": [
+    "Visual_Imperative.md",
+    "Principles_Of_Data_Visualization.md",
+    "Good_Enough_To_Great.md",
+    "Course.md",
+    "Art_Of_Data.md",
+    "Week1.md",
+    "Week2.md",
+    "Untitled.md",
+    "Semana1.md",
+    "semana1.md"
+  ]
+}
