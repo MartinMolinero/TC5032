@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual_Imperative.md",
+            "file": "How to run a dataviz project.md",
             "mode": "source"
           }
         }
@@ -57,45 +57,22 @@
   "right": {
     "id": "52fcb8de855d09bb",
     "type": "split",
-    "children": [
-      {
-        "id": "fd65a87b584f25e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3372da35dfd99f3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Visual_Imperative.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "active": "5a711a171314951b",
   "lastOpenFiles": [
-    "Visual_Imperative.md",
-    "Principles_Of_Data_Visualization.md",
-    "Good_Enough_To_Great.md",
-    "Course.md",
-    "Art_Of_Data.md",
-    "Week1.md",
+    "How to run a dataviz project.md",
+    "Week4.md",
+    "The 7 stages of visualizing data.md",
+    "Week3.md",
+    "Visual_Analytics_With_Tableau.md",
     "Week2.md",
-    "Untitled.md",
-    "Semana1.md",
-    "semana1.md"
+    "Art_Of_Data.md",
+    "Good_Enough_To_Great.md",
+    "Principles_Of_Data_Visualization.md",
+    "Course.md"
   ]
 }

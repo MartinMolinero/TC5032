@@ -81,7 +81,4 @@ Analytical patterns -> words formed by using them.
 - Gestalt principles: How mind organizes elements into groups
 - Highlight important patterns and downpay others.
 ![[Screen Shot 2022-04-26 at 22.55.45.png]]
-- Principles help perform tasks like reduuce noise from charts, choose aspect ratio, show relationships between elements.
-- 
-
-preattentive features,
+- Principles help perform tasks like reduuce noise from charts, choose aspect ratio, show relationships between elements. preattentive features,
